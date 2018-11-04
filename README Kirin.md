@@ -11,22 +11,25 @@ as shown in Table 1.
 2. Future enhancement
 A list of completed products (at least 8 products per pages) will be displayed
 during the final presentation. Future enhancement shall also include
-interactions and storage of data for the Add-To-Cart page. Contributions are
+interactions and storage of data. Contributions are
 shown in Group COntribution
 
 
 Group Contribution
 Name       Contributions 
-Khalid  > • Pages: Home page, Gallery, Report Venue, Report Equipments and Forms 
+Khalid  > • Pages: Home page, Gallery, Report Venue, Report Equipments and Booking Equipment form 
           • Web elements: Navigation bar
-Future enhancements    • 
+Future enhancements    • Make sure all links in all pages is working
+                       •Add more grapgical aspect
+                       •Add more pictures to Gallery
+                       •Add a backend service to all the pages where it is required
 
 
 
 Murshyid  >     • Pages: About Us, List Rental Fees,Choose Equipments, Check Equipments Availibility
                  • Web elements: Logo
-Future enhancements        • Adding more feature and wirte text in good color 
-                             • Choose better and high quality image Apply event handler function to link between the pages
+Future enhancements        • Adding more feature and apply good color for texts and boxes. 
+                             • Choose better and high quality image and Apply event handler taht function to link between the pages
                            • JavaScript event handlers for Check Availibilty and storage of data using JSON to check current status of the equipment
  Adam >        •Pages:Contact Us, Booking Venue, Check Venue Availibility
                • Web elements: social media logo
@@ -40,20 +43,20 @@ Graphics: Team members Khalid, Murshyid and Adam obtained all graphics for the C
 hiveminer.com,foursqure.com. Those websites provide some hight quality picture.
 
 Web elements       Team members                  Modifications
-Date picker        Khalid                      Show current calendar
-Accordion Widget   Murshyid                    Background color 
+Date picker        Khalid                     Resize font size and change color 
+Accordion Widget   Murshyid                   Change background color and font size
 Graphics          Khalid, Murshyid and Adam  All graphics are resized using CSS. 
 
 
 Reference
-https://hiveminer.com/Tags/iium,landscape
-https://jqueryui.com/accordion/  
-view-source:http://www.javascriptbook.com/code/c11/accordion.html 
-https://jqueryui.com/datepicker/
-https://www.w3schools.com/html/html_form_input_types.asp
-https://www.canva.com/
-https://www.w3schools.com/howto/howto_css_checkout_form.asp
-http://www.htmlandcssbook.com/code-samples/chapter-15/
+Retrieved
+Background image.Retrieved 30/10/2018 from https://hiveminer.com/Tags/iium,landscape
+The JQuery Foundation. Accordion Widget. Retrieved 1/11/2018 from https://jqueryui.com/accordion/  
+The JQuery Foundation.Retrieved 28/10/2018 from https://jqueryui.com/datepicker/
+Retrieved 2/11/2018 from https://www.w3schools.com/html/html_form_input_types.asp
+Logo image.Retrieved 3/11/2018 from https://www.canva.com/
+Retrieved 31/10/2018 from https://www.w3schools.com/howto/howto_css_checkout_form.asp
+Retrieved 1/11/2018 from http://www.htmlandcssbook.com/code-samples/chapter-15/
 
 
 
