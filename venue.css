@@ -1,13 +1,13 @@
 body {
 				color: #665544;
-				background-color: #d4d0c6;
-				background-image: url("https://i.imgur.com/kzRwt9i.jpg");
+				background-color: #dadada;
+
 				font-family: Georgia, "Times New Roman", serif;
 				text-align: center;}
 			.wrapper {
 				width: 720px;
 				margin: 0px auto;}
-			.header {
+			.hheader {
 				margin: 40px 0px 20px 0px;}
 			.entry {
 				width: 250px;
